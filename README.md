@@ -17,19 +17,19 @@ Welcome to my Python Projects Portfolio! This repository showcases various Pytho
 
 1. **Project 1: Data ETL Pipeline**
    - **Description:** Extract, Transform, Load (ETL) pipeline for handling the Fashion MNIST dataset using SQLite.
-   - **Source Code:** [notebooks/data_etl_pipeline.ipynb](notebooks/data_etl_pipeline.ipynb)
+   - **Source Code:** [data_etl_pipeline.ipynb](Data_ETL_Pipeline.ipynb)
 
 2. **Project 2: Web Scraper**
    - **Description:** A web scraping tool to extract data from websites and store it in a CSV file.
-   - **Source Code:** [notebooks/web_scraper.ipynb](notebooks/web_scraper.ipynb)
+   - **Source Code:** [web_scraper.ipynb](notebooks/web_scraper.ipynb)
 
 3. **Project 3: Flask Web Application**
    - **Description:** A simple web application built using Flask.
-   - **Source Code:** [notebooks/flask_web_app.ipynb](notebooks/flask_web_app.ipynb)
+   - **Source Code:** [flask_web_app.ipynb](notebooks/flask_web_app.ipynb)
 
 4. **Project 4: Machine Learning Model**
    - **Description:** A machine learning model to classify images using scikit-learn.
-   - **Source Code:** [notebooks/ml_model.ipynb](notebooks/ml_model.ipynb)
+   - **Source Code:** [ml_model.ipynb](notebooks/ml_model.ipynb)
 
 ... (more projects coming soon)
 
