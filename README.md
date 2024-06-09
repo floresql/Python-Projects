@@ -17,7 +17,7 @@ Welcome to my Python Projects Portfolio! This repository showcases various Pytho
 
 1. **Project 1: Data ETL Pipeline**
    - **Description:** Extract, Transform, Load (ETL) pipeline for handling the Fashion MNIST dataset using SQLite.
-   - **Source Code:** [data_etl_pipeline.ipynb](data_etl_pipeline.ipynb)
+   - **Source Code:** [data_etl_pipeline.ipynb](Data_ETL_Pipeline.ipynb)
 
 2. **Project 2: Web Scraper**
    - **Description:** A web scraping tool to extract data from websites and store it in a CSV file.
