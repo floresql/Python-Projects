@@ -1,6 +1,6 @@
-# Python Projects with Source Code
+# Python Projects Portfolio
 
-Welcome to the Python Projects repository! This repository contains various Python projects with complete source code in Jupyter Notebooks, ranging from beginner to advanced levels. Each project includes a detailed description, installation instructions, and usage guidelines.
+Welcome to my Python Projects Portfolio! This repository showcases various Python projects I've worked on, ranging from beginner to advanced levels. Each project includes a detailed description, installation instructions, and usage guidelines. I hope these projects demonstrate my skills and experience in Python programming.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Welcome to the Python Projects repository! This repository contains various Pyth
    - **Description:** A machine learning model to classify images using scikit-learn.
    - **Source Code:** [notebooks/ml_model.ipynb](notebooks/ml_model.ipynb)
 
-... (add more projects as necessary)
+... (more projects coming soon)
 
 ## Getting Started
 
@@ -49,11 +49,11 @@ Ensure you have the following software installed:
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/your-username/python-projects.git
+    git clone https://github.com/your-username/python-projects-portfolio.git
     ```
 2. Navigate to the project directory
     ```sh
-    cd python-projects
+    cd python-projects-portfolio
     ```
 3. Install the required packages
     ```sh
